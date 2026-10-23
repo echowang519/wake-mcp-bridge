@@ -1,0 +1,13 @@
+{
+  "eventId": "evt_demo_001",
+  "type": "external_message",
+  "createdAt": "YYYY-MM-DDTHH:MM:SSZ",
+  "source": "demo-external-source",
+  "payload": {
+    "text": "Synthetic event used for the public portfolio example."
+  },
+  "delivery": {
+    "status": "persisted",
+    "wakeEligible": true
+  }
+}
